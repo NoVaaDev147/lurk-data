@@ -1,7 +1,6 @@
 {
   "version": 1,
   "games": [
-    { "name": "Notepad (test)", "exes": ["notepad.exe"] },
     { "name": "Roblox", "exes": ["RobloxPlayerBeta.exe"] },
     { "name": "Counter-Strike 2", "exes": ["cs2.exe"] },
     { "name": "VALORANT", "exes": ["VALORANT-Win64-Shipping.exe"] },
